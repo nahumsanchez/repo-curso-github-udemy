@@ -7,3 +7,4 @@
 5. Deadshot
 6. Harley Queen
 7. Darside
+8. Doble Cara
